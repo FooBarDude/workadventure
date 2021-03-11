@@ -30,11 +30,11 @@
          "opacity":1,
          "properties":
             {
-             "exitSceneUrl":"\/forest.json"
+             "exitUrl":"foobardude.github.io\/workadventure\/forest.json"
             },
          "propertytypes":
             {
-             "exitSceneUrl":"string"
+             "exitUrl":"string"
             },
          "type":"tilelayer",
          "visible":true,
