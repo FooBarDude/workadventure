@@ -18,7 +18,7 @@
          "name":"colide",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -28,16 +28,8 @@
          "height":34,
          "name":"exit_stairs",
          "opacity":1,
-         "properties":
-            {
-             "exitUrl":"https:\/\/play.workadventu.re\/_\/global\/foobardude.github.io\/workadventure\/forest.json"
-            },
-         "propertytypes":
-            {
-             "exitUrl":"string"
-            },
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -48,7 +40,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -59,7 +51,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -70,7 +62,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -102,7 +94,7 @@
          "name":"override",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
