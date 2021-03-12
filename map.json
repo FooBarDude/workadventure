@@ -28,14 +28,6 @@
          "height":34,
          "name":"exit_stairs",
          "opacity":1,
-         "properties":
-            {
-             "exitUrl":"forest.json#entry1"
-            },
-         "propertytypes":
-            {
-             "exitUrl":"string"
-            },
          "type":"tilelayer",
          "visible":true,
          "width":46,
