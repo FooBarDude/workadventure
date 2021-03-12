@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"forest.json"
+                 "value":"forest.json#entrance1"
                 }],
          "type":"tilelayer",
          "visible":false,
