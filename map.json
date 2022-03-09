@@ -21,7 +21,7 @@
          "name":"colide",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
                  "value":"https:\/\/www.wikipedia.de\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -57,7 +57,7 @@
                  "value":"hub.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
                  "value":"table2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -93,7 +93,7 @@
                  "value":"table1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -105,7 +105,7 @@
          "name":"walls and floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -117,7 +117,7 @@
          "name":"moebel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -129,7 +129,7 @@
          "name":"moebel2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
@@ -141,7 +141,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -152,7 +152,7 @@
          "name":"override",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":42,
          "x":0,
          "y":0
