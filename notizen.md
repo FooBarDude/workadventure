@@ -6,3 +6,4 @@ git commit -m "comitmessage"
 
 ## upload to github
 git push
+
