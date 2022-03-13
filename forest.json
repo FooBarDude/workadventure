@@ -202,6 +202,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"daytime-forest.mp3"
                 }],
