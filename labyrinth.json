@@ -80,6 +80,12 @@
          "id":1,
          "name":"ground_and_walls",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"string",
+                 "value":"horror-rumble.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
