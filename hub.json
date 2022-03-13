@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"labyrinth.json#von_hub"
+                 "value":"labyrinth.json#entry_von_hub"
                 }],
          "type":"tilelayer",
          "visible":true,
