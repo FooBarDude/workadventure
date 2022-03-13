@@ -173,6 +173,11 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"labyrinth.json#entry_von_hub"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"mixkit-lose-life-falling-2029.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
