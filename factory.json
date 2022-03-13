@@ -151,12 +151,17 @@
                  "value":true
                 }, 
                 {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.7
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"space_station_control_room.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
